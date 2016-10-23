@@ -4,7 +4,7 @@ namespace EmpregadoLAB
 {
     class Program
     {
-        EmpregadoLAB e = new Empregado();
+        
 
         static void Main(string[] args)
         {
